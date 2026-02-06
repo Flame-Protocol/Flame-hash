@@ -1,0 +1,5 @@
+{
+  "name": "SecureFingerprint SHA3-256",
+  "description": "A high-performance file hashing tool that generates SHA3-256 fingerprints with AI-powered file analysis and metadata insights.",
+  "requestFramePermissions": []
+}
